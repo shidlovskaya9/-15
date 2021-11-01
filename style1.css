@@ -1,0 +1,156 @@
+body{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+a{
+    text-decoration: none;
+}
+
+.linkk1{
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.dark, .strip-dark, .stripped-dark {
+  background-color: #5f90aa;
+  color: #e7e5e4;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 40px;
+  line-height: 120px;
+}
+
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.light, .strip-light, .stripped-light {
+  background-color: #e7e5e4;
+  color: #131313;
+}
+
+.ycheba {
+  background-color: #5f90aa;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 80px;
+  line-height: 120px;
+}
+
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.ph{
+
+    display: inline-block;
+    margin-left: 140px;
+}
+
+.ph2{
+    margin-left: 30px;
+}
+
+.text{
+    font-size: 20px;
+  line-height: 26px;
+  padding-left: 8%;
+  text-align: center;
+    font-weight: bold;
+}
+
+.hob{
+  font-size: 20px;
+line-height: 26px;
+padding-left: 4%;
+text-align: center;
+  font-weight: bold;
+}
+
+.mody {
+  text-align: center;
+    font-size: 30px;
+}
+
+.mod{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 12%;
+}
+
+.ph1{
+    display: inline-block;
+    margin-left: 260px;
+}
+
+.ph3{
+    margin-left: 60px;
+}
+
+.ph4{
+  text-align: center;
+}
+
+.ph5{
+  text-align: center;
+  padding-left: 2%;
+}
+
+
+.vl {
+  border-left: 3px solid #fff;
+  height: 15vh;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 1%;
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.zerkalo {
+  margin-top: 2%;
+}
+
+.photo {
+  text-align: center;
+  padding-left: 8%;
+   }
+
+.good {
+  font-size: 18px;
+line-height: 26px;
+padding-left: 8%;
+text-align: center;
+  font-weight: bold;
+}
+
+.linkk{
+    font-size: 22px;
+    margin-left: 200px;
+    color: #000;
+    border-bottom: 2px solid #000;
+}
+
+.ph5{
+    text-align: center;
+   
+    
+}
+
